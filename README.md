@@ -1,9 +1,9 @@
 # Administración y organización de datos
 ## Organizacion de archivos CSV
-### Práctica para leer datos desde un archivo de datos separados por comas
+**Práctica para leer datos desde un archivo de datos separados por comas**
 
-**Nombre**
+Integrantes: José Luis Cadenas Ocaña
 
-Número de control
+21887007
 
 IINF 4° E
